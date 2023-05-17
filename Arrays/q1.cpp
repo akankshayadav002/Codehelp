@@ -1,6 +1,4 @@
 //move all negative numbers to the left side of an array.
-
-
 #include<iostream>
 #include<vector>
 using namespace std;
